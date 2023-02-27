@@ -1,5 +1,5 @@
 # https://edu.tinkoff.ru/selection/76378fbd-1998-48fa-944e-eb736d321f11/exam/244?task=6
-
+# https://github.com/PeaceAndLove1337/SomeTasksOnKotlin/blob/master/src/main/kotlin/ThirdExample.kt
 n = int(input())
 nums = [int(input()) for i in range(n)]
 even = -1
